@@ -1,0 +1,6 @@
+{
+  "name": "MedPulse Study",
+  "description": "Native study productivity app featuring a persistent Pomodoro focus timer with foreground service, Samsung Notes-inspired rich study notes, daily topic planner, and long-term history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
